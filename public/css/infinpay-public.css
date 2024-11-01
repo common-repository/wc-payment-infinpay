@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.payment_method_wc_infinpay > label {
+    display: none;
+}
+
+.payment_method_wc_infinpay > label > img {
+    position: absolute;
+    width: 380px;
+}
+
+.payment_method_wc_infinpay > .payment_box {
+    margin-top: 3rem !important;
+}
